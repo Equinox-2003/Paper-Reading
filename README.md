@@ -6,6 +6,7 @@
 
 | 日期       | 名称                                                 | blog                                                         |
 | ---------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| 2026-05-29 | [Qwen-VL](https://arxiv.org/pdf/2308.12966)          | [**Qwen VL精读**](https://equinox.wiki/post/paper-reading/qwen-vl%E7%B2%BE%E8%AF%BB/) |
 | 2026-05-27 | [Swin Transformer](https://arxiv.org/pdf/2103.14030) | [**Swin Transformer精读**](https://equinox.wiki/post/paper-reading/swin-transformer%E7%B2%BE%E8%AF%BB/) |
 | 2026-05-25 | [CLIP](https://openai.com/blog/clip/)                | **[CLIP精读](https://equinox.wiki/post/paper-reading/clip%E7%B2%BE%E8%AF%BB/)** |
 | 2026-05-17 | [MoCov1](https://arxiv.org/pdf/1911.05722.pdf)       | [**MoCo精读**](https://equinox.wiki/post/paper-reading/moco%E7%B2%BE%E8%AF%BB/) |
@@ -37,6 +38,20 @@
 | 年份 | 名称                                  | 简介                     | blog                                                         |
 | ---- | ------------------------------------- | ------------------------ | ------------------------------------------------------------ |
 | 2021 | [CLIP](https://openai.com/blog/clip/) | 图片和文本之间的对比学习 | **[CLIP精读](https://equinox.wiki/post/paper-reading/clip%E7%B2%BE%E8%AF%BB/)** |
+
+
+
+
+
+### Qwen-VL系列
+
+| 年份 | 名称                                        | 简介                                  | blog                                                         |
+| ---- | ------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| 2023 | [Qwen-VL](https://arxiv.org/pdf/2308.12966) | Qwen-VL首个开源的多功能的视觉语言模型 | [**Qwen VL精读**](https://equinox.wiki/post/paper-reading/qwen-vl%E7%B2%BE%E8%AF%BB/) |
+
+
+
+
 
 
 
