@@ -6,6 +6,7 @@
 
 | 日期       | 名称                                                 | blog                                                         |
 | ---------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| 2026-06-03 | [MiniGPT-4](https://arxiv.org/pdf/2304.10592)        | [MiniGPT 4精读](https://equinox.wiki/post/paper-reading/minigpt-4%E7%B2%BE%E8%AF%BB/) |
 | 2026-06-02 | [BLIP-2](https://arxiv.org/pdf/2301.12597)           | [BLIP2泛读](https://equinox.wiki/post/paper-reading/blip2%E6%B3%9B%E8%AF%BB/) |
 | 2026-06-01 | [BLIP](https://arxiv.org/pdf/2201.12086)             | [BLIP泛读](https://equinox.wiki/post/paper-reading/blip%E6%B3%9B%E8%AF%BB/) |
 | 2026-06-01 | [VLMO](https://arxiv.org/pdf/2111.02358)             | [VLMO泛读](https://equinox.wiki/post/paper-reading/vlmo%E6%B3%9B%E8%AF%BB/) |
@@ -51,11 +52,12 @@
 
 
 
-### Qwen-VL系列
+### VLM
 
-| 年份 | 名称                                        | 简介                                  | blog                                                         |
-| ---- | ------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
-| 2023 | [Qwen-VL](https://arxiv.org/pdf/2308.12966) | Qwen-VL首个开源的多功能的视觉语言模型 | [Qwen VL精读](https://equinox.wiki/post/paper-reading/qwen-vl%E7%B2%BE%E8%AF%BB/) |
+| 年份 | 名称                                          | 简介                                  | blog                                                         |
+| ---- | --------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| 2023 | [MiniGPT-4](https://arxiv.org/pdf/2304.10592) | 一个线性层释放llm的视觉语言能力       | [MiniGPT 4精读](https://equinox.wiki/post/paper-reading/minigpt-4%E7%B2%BE%E8%AF%BB/) |
+| 2023 | [Qwen-VL](https://arxiv.org/pdf/2308.12966)   | Qwen-VL首个开源的多功能的视觉语言模型 | [Qwen VL精读](https://equinox.wiki/post/paper-reading/qwen-vl%E7%B2%BE%E8%AF%BB/) |
 
 
 
