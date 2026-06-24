@@ -4,25 +4,29 @@
 
 ### Archive
 
-| 日期       | 名称                                                 | blog                                                         |
-| ---------- | ---------------------------------------------------- | ------------------------------------------------------------ |
-| 2026-06-10 | [Qwen3-VL](https://arxiv.org/pdf/2511.21631)         | [Qwen3-VL精读](https://equinox.wiki/post/paper-reading/qwen3-vl%E7%B2%BE%E8%AF%BB/) |
-| 2026-06-09 | [Qwen2.5-VL](https://arxiv.org/pdf/2502.13923)       | [Qwen2.5-VL精读](https://equinox.wiki/post/paper-reading/qwen2.5-vl%E6%B3%9B%E8%AF%BB/) |
-| 2026-06-08 | [Qwen2-VL](https://arxiv.org/pdf/2409.12191)         | [Qwen2-VL精读](https://equinox.wiki/post/paper-reading/qwen2-vl%E7%B2%BE%E8%AF%BB/) |
-| 2026-06-05 | [LlaVA1.5](https://arxiv.org/abs/2310.03744)         | [LlaVA1.5精读](https://equinox.wiki/post/paper-reading/llava1.5%E7%B2%BE%E8%AF%BB/) |
-| 2026-06-04 | [LLaVA](https://arxiv.org/pdf/2304.08485)            | [LLaVA精读](https://equinox.wiki/post/paper-reading/llava%E7%B2%BE%E8%AF%BB/) |
-| 2026-06-03 | [MiniGPT-4](https://arxiv.org/pdf/2304.10592)        | [MiniGPT 4精读](https://equinox.wiki/post/paper-reading/minigpt-4%E7%B2%BE%E8%AF%BB/) |
-| 2026-06-02 | [BLIP-2](https://arxiv.org/pdf/2301.12597)           | [BLIP2泛读](https://equinox.wiki/post/paper-reading/blip2%E6%B3%9B%E8%AF%BB/) |
-| 2026-06-01 | [BLIP](https://arxiv.org/pdf/2201.12086)             | [BLIP泛读](https://equinox.wiki/post/paper-reading/blip%E6%B3%9B%E8%AF%BB/) |
-| 2026-06-01 | [VLMO](https://arxiv.org/pdf/2111.02358)             | [VLMO泛读](https://equinox.wiki/post/paper-reading/vlmo%E6%B3%9B%E8%AF%BB/) |
-| 2026-05-31 | [ALBEF](https://arxiv.org/pdf/2107.07651)            | [ALBEF泛读](https://equinox.wiki/post/paper-reading/albef%E6%B3%9B%E8%AF%BB/) |
-| 2026-05-30 | [ViLT](https://arxiv.org/pdf/2102.03334.pdf)         | [ViLT精读](https://equinox.wiki/post/paper-reading/vilt%E7%B2%BE%E8%AF%BB/) |
-| 2026-05-29 | [Qwen-VL](https://arxiv.org/pdf/2308.12966)          | [Qwen VL精读](https://equinox.wiki/post/paper-reading/qwen-vl%E7%B2%BE%E8%AF%BB/) |
-| 2026-05-27 | [Swin Transformer](https://arxiv.org/pdf/2103.14030) | [Swin Transformer精读](https://equinox.wiki/post/paper-reading/swin-transformer%E7%B2%BE%E8%AF%BB/) |
-| 2026-05-25 | [CLIP](https://openai.com/blog/clip/)                | [CLIP精读](https://equinox.wiki/post/paper-reading/clip%E7%B2%BE%E8%AF%BB/) |
-| 2026-05-17 | [MoCov1](https://arxiv.org/pdf/1911.05722.pdf)       | [MoCo精读](https://equinox.wiki/post/paper-reading/moco%E7%B2%BE%E8%AF%BB/) |
-| 2026-05-14 | [MAE](https://arxiv.org/pdf/2111.06377.pdf)          | [MAE精读](https://equinox.wiki/post/paper-reading/mae%E7%B2%BE%E8%AF%BB/) |
-| 2026-05-13 | [ViT](https://arxiv.org/pdf/2010.11929.pdf)          | [ViT精读](https://equinox.wiki/post/paper-reading/vit%E7%B2%BE%E8%AF%BB/) |
+| 日期       | 名称                                                         | blog                                                         |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2026-06-24 | [Automatic Chain of Thought Prompting in Large Language Models](https://arxiv.org/abs/2210.03493) | [Auto CoT精读](https://equinox.wiki/post/paper-reading/auto-cot%E7%B2%BE%E8%AF%BB/) |
+| 2026-06-23 | [Self-Consistency](https://arxiv.org/abs/2203.11171)         | [Self Consistency泛读](https://equinox.wiki/post/paper-reading/self-consistency%E6%B3%9B%E8%AF%BB/) |
+| 2026-06-23 | [Zero Shot CoT](https://arxiv.org/abs/2205.11916)            | [Zero Shot CoT精读](https://equinox.wiki/post/paper-reading/zero_shot_cot%E7%B2%BE%E8%AF%BB/) |
+| 2026-06-16 | [CoT](https://arxiv.org/abs/2201.11903)                      | [CoT精读](https://equinox.wiki/post/paper-reading/cot%E7%B2%BE%E8%AF%BB/) |
+| 2026-06-10 | [Qwen3-VL](https://arxiv.org/pdf/2511.21631)                 | [Qwen3-VL精读](https://equinox.wiki/post/paper-reading/qwen3-vl%E7%B2%BE%E8%AF%BB/) |
+| 2026-06-09 | [Qwen2.5-VL](https://arxiv.org/pdf/2502.13923)               | [Qwen2.5-VL精读](https://equinox.wiki/post/paper-reading/qwen2.5-vl%E6%B3%9B%E8%AF%BB/) |
+| 2026-06-08 | [Qwen2-VL](https://arxiv.org/pdf/2409.12191)                 | [Qwen2-VL精读](https://equinox.wiki/post/paper-reading/qwen2-vl%E7%B2%BE%E8%AF%BB/) |
+| 2026-06-05 | [LlaVA1.5](https://arxiv.org/abs/2310.03744)                 | [LlaVA1.5精读](https://equinox.wiki/post/paper-reading/llava1.5%E7%B2%BE%E8%AF%BB/) |
+| 2026-06-04 | [LLaVA](https://arxiv.org/pdf/2304.08485)                    | [LLaVA精读](https://equinox.wiki/post/paper-reading/llava%E7%B2%BE%E8%AF%BB/) |
+| 2026-06-03 | [MiniGPT-4](https://arxiv.org/pdf/2304.10592)                | [MiniGPT 4精读](https://equinox.wiki/post/paper-reading/minigpt-4%E7%B2%BE%E8%AF%BB/) |
+| 2026-06-02 | [BLIP-2](https://arxiv.org/pdf/2301.12597)                   | [BLIP2泛读](https://equinox.wiki/post/paper-reading/blip2%E6%B3%9B%E8%AF%BB/) |
+| 2026-06-01 | [BLIP](https://arxiv.org/pdf/2201.12086)                     | [BLIP泛读](https://equinox.wiki/post/paper-reading/blip%E6%B3%9B%E8%AF%BB/) |
+| 2026-06-01 | [VLMO](https://arxiv.org/pdf/2111.02358)                     | [VLMO泛读](https://equinox.wiki/post/paper-reading/vlmo%E6%B3%9B%E8%AF%BB/) |
+| 2026-05-31 | [ALBEF](https://arxiv.org/pdf/2107.07651)                    | [ALBEF泛读](https://equinox.wiki/post/paper-reading/albef%E6%B3%9B%E8%AF%BB/) |
+| 2026-05-30 | [ViLT](https://arxiv.org/pdf/2102.03334.pdf)                 | [ViLT精读](https://equinox.wiki/post/paper-reading/vilt%E7%B2%BE%E8%AF%BB/) |
+| 2026-05-29 | [Qwen-VL](https://arxiv.org/pdf/2308.12966)                  | [Qwen VL精读](https://equinox.wiki/post/paper-reading/qwen-vl%E7%B2%BE%E8%AF%BB/) |
+| 2026-05-27 | [Swin Transformer](https://arxiv.org/pdf/2103.14030)         | [Swin Transformer精读](https://equinox.wiki/post/paper-reading/swin-transformer%E7%B2%BE%E8%AF%BB/) |
+| 2026-05-25 | [CLIP](https://openai.com/blog/clip/)                        | [CLIP精读](https://equinox.wiki/post/paper-reading/clip%E7%B2%BE%E8%AF%BB/) |
+| 2026-05-17 | [MoCov1](https://arxiv.org/pdf/1911.05722.pdf)               | [MoCo精读](https://equinox.wiki/post/paper-reading/moco%E7%B2%BE%E8%AF%BB/) |
+| 2026-05-14 | [MAE](https://arxiv.org/pdf/2111.06377.pdf)                  | [MAE精读](https://equinox.wiki/post/paper-reading/mae%E7%B2%BE%E8%AF%BB/) |
+| 2026-05-13 | [ViT](https://arxiv.org/pdf/2010.11929.pdf)                  | [ViT精读](https://equinox.wiki/post/paper-reading/vit%E7%B2%BE%E8%AF%BB/) |
 
 
 
@@ -68,6 +72,21 @@
 | 2024 | [Qwen2-VL](https://arxiv.org/pdf/2409.12191)   | 动态分辨率、跨模态位置编码、视频统一建模的Qwen-VL升级版      | [Qwen2-VL精读](https://equinox.wiki/post/paper-reading/qwen2-vl%E7%B2%BE%E8%AF%BB/) |
 | 2025 | [Qwen2.5-VL](https://arxiv.org/pdf/2502.13923) | 文档解析、长视频定位和视觉Agent能力的全面升级                | [Qwen2.5-VL精读](https://equinox.wiki/post/paper-reading/qwen2.5-vl%E6%B3%9B%E8%AF%BB/) |
 | 2025 | [Qwen3-VL](https://arxiv.org/pdf/2511.21631)   | 架构、数据、训练的全面升级                                   | [Qwen3-VL精读](https://equinox.wiki/post/paper-reading/qwen3-vl%E7%B2%BE%E8%AF%BB/) |
+
+
+
+### CoT
+
+| 年份 | 名称                                                         | 简介                                        | blog                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ |
+| 2022 | [CoT](https://arxiv.org/abs/2201.11903)                      | AI也需要鼓励师？                            | [CoT精读](https://equinox.wiki/post/paper-reading/cot%E7%B2%BE%E8%AF%BB/) |
+| 2022 | [Zero Shot CoT](https://arxiv.org/abs/2205.11916)            | 无需样例，一句话激活llm推理能力             | [Zero Shot CoT精读](https://equinox.wiki/post/paper-reading/zero_shot_cot%E7%B2%BE%E8%AF%BB/) |
+| 2022 | [Self-Consistency](https://arxiv.org/abs/2203.11171)         | 多角度进行问题推理                          | [Self Consistency泛读](https://equinox.wiki/post/paper-reading/self-consistency%E6%B3%9B%E8%AF%BB/) |
+| 2022 | [Automatic Chain of Thought Prompting in Large Language Models](https://arxiv.org/abs/2210.03493) | 让模型自己为 few shot CoT构建demonstrations | [Auto CoT精读](https://equinox.wiki/post/paper-reading/auto-cot%E7%B2%BE%E8%AF%BB/) |
+
+
+
+
 
 
 
