@@ -6,6 +6,10 @@
 
 | 日期       | 名称                                                         | blog                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2026-07-08 | [Belief Memory: Agent Memory Under Partial Observability](https://arxiv.org/pdf/2605.05583) | [论文精读 \| Belief Memory](https://equinox.wiki/post/paper-reading/agent-memory/belief-memory%E7%B2%BE%E8%AF%BB/) |
+| 2026-07-03 | [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/pdf/2605.12357) | [论文精读 \| Delta Mem](https://equinox.wiki/post/paper-reading/agent-memory/delta-mem%E7%B2%BE%E8%AF%BB/) |
+| 2026-07-03 | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413) | [Mem0框架解读](https://equinox.wiki/post/agent/mem0/)        |
+| 2026-07-01 | [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442) | [论文精读 \| 斯坦福小镇](https://equinox.wiki/post/paper-reading/agent-memory/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%B0%8F%E9%95%87/) |
 | 2026-06-24 | [Automatic Chain of Thought Prompting in Large Language Models](https://arxiv.org/abs/2210.03493) | [Auto CoT精读](https://equinox.wiki/post/paper-reading/auto-cot%E7%B2%BE%E8%AF%BB/) |
 | 2026-06-23 | [Self-Consistency](https://arxiv.org/abs/2203.11171)         | [Self Consistency泛读](https://equinox.wiki/post/paper-reading/self-consistency%E6%B3%9B%E8%AF%BB/) |
 | 2026-06-23 | [Zero Shot CoT](https://arxiv.org/abs/2205.11916)            | [Zero Shot CoT精读](https://equinox.wiki/post/paper-reading/zero_shot_cot%E7%B2%BE%E8%AF%BB/) |
@@ -86,17 +90,12 @@
 
 
 
+**Agent Memory**
 
-
-
-
-
-
-
-
-
-
-
-
-
+| 年份 | 名称                                                         | 简介                                   | blog                                                         |
+| ---- | ------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------ |
+| 2023 | [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442) | AI版本的《模拟人生》？                 | [论文精读 \| 斯坦福小镇](https://equinox.wiki/post/paper-reading/agent-memory/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%B0%8F%E9%95%87/) |
+| 2025 | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413) | 爆火的mem0原来只是prompt engineering？ | [Mem0框架解读](https://equinox.wiki/post/agent/mem0/)        |
+| 2026 | [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/pdf/2605.12357) | LoRA也能做 Agent Memory？              | [论文精读 \| Delta Mem](https://equinox.wiki/post/paper-reading/agent-memory/delta-mem%E7%B2%BE%E8%AF%BB/) |
+| 2026 | [Belief Memory: Agent Memory Under Partial Observability](https://arxiv.org/pdf/2605.05583) | 如何维护可信记忆？                     | [论文精读 \| Belief Memory](https://equinox.wiki/post/paper-reading/agent-memory/belief-memory%E7%B2%BE%E8%AF%BB/) |
 
