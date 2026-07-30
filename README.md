@@ -6,6 +6,12 @@
 
 | 日期       | 名称                                                         | blog                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2026-07-29 | [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/pdf/2601.02553) | [论文精读 \| SimpleMem](https://equinox.wiki/post/paper-reading/agent-memory/simplemem/) |
+| 2026-07-22 | [Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/pdf/2602.06025) | [论文精读 \| BudgetMem](https://equinox.wiki/post/paper-reading/agent-memory/budgetmem%E7%B2%BE%E8%AF%BB/) |
+| 2026-07-21 | [ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory](https://arxiv.org/pdf/2511.21678) | [论文泛读 \| ViLoMem](https://equinox.wiki/post/paper-reading/agent-memory/vilomem%E7%B2%BE%E8%AF%BB/) |
+| 2026-07-20 | [MLP Memory: A Retriever-Pretrained Memory for Large Language Models](https://equinox.wiki/post/paper-reading/agent-memory/mlp-memory%E7%B2%BE%E8%AF%BB/) | [论文精读 \| MLP Memory](https://equinox.wiki/post/paper-reading/agent-memory/mlp-memory%E7%B2%BE%E8%AF%BB/) |
+| 2026-07-14 | [RGMem: Renormalization Group-inspired Memory Evolution for Language Agents](https://arxiv.org/pdf/2510.16392) | [论文精读 \| RGMem](https://equinox.wiki/post/paper-reading/agent-memory/rgmem/) |
+| 2026-07-13 | [Memory OS of AI Agent](https://arxiv.org/pdf/2506.06326)    | [论文精读 \| Memory OS of AI Agent](https://equinox.wiki/post/paper-reading/agent-memory/memory-os-of-ai-agent/) |
 | 2026-07-08 | [Belief Memory: Agent Memory Under Partial Observability](https://arxiv.org/pdf/2605.05583) | [论文精读 \| Belief Memory](https://equinox.wiki/post/paper-reading/agent-memory/belief-memory%E7%B2%BE%E8%AF%BB/) |
 | 2026-07-03 | [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/pdf/2605.12357) | [论文精读 \| Delta Mem](https://equinox.wiki/post/paper-reading/agent-memory/delta-mem%E7%B2%BE%E8%AF%BB/) |
 | 2026-07-03 | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413) | [Mem0框架解读](https://equinox.wiki/post/agent/mem0/)        |
@@ -90,12 +96,19 @@
 
 
 
-**Agent Memory**
+### Agent Memory
 
-| 年份 | 名称                                                         | 简介                                   | blog                                                         |
-| ---- | ------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------ |
-| 2023 | [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442) | AI版本的《模拟人生》？                 | [论文精读 \| 斯坦福小镇](https://equinox.wiki/post/paper-reading/agent-memory/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%B0%8F%E9%95%87/) |
-| 2025 | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413) | 爆火的mem0原来只是prompt engineering？ | [Mem0框架解读](https://equinox.wiki/post/agent/mem0/)        |
-| 2026 | [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/pdf/2605.12357) | LoRA也能做 Agent Memory？              | [论文精读 \| Delta Mem](https://equinox.wiki/post/paper-reading/agent-memory/delta-mem%E7%B2%BE%E8%AF%BB/) |
-| 2026 | [Belief Memory: Agent Memory Under Partial Observability](https://arxiv.org/pdf/2605.05583) | 如何维护可信记忆？                     | [论文精读 \| Belief Memory](https://equinox.wiki/post/paper-reading/agent-memory/belief-memory%E7%B2%BE%E8%AF%BB/) |
+| 年份 | 名称                                                         | 简介                                          | blog                                                         |
+| ---- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
+| 2023 | [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442) | AI版本的《模拟人生》？                        | [论文精读 \| 斯坦福小镇](https://equinox.wiki/post/paper-reading/agent-memory/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%B0%8F%E9%95%87/) |
+| 2025 | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413) | 爆火的mem0原来只是prompt engineering？        | [Mem0框架解读](https://equinox.wiki/post/agent/mem0/)        |
+| 2026 | [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/pdf/2605.12357) | LoRA也能做 Agent Memory？                     | [论文精读 \| Delta Mem](https://equinox.wiki/post/paper-reading/agent-memory/delta-mem%E7%B2%BE%E8%AF%BB/) |
+| 2026 | [Belief Memory: Agent Memory Under Partial Observability](https://arxiv.org/pdf/2605.05583) | 如何维护可信记忆？                            | [论文精读 \| Belief Memory](https://equinox.wiki/post/paper-reading/agent-memory/belief-memory%E7%B2%BE%E8%AF%BB/) |
+| 2025 | [Memory OS of AI Agent](https://arxiv.org/pdf/2506.06326)    | 记忆也能做段页式存储管理                      | [论文精读 \| Memory OS of AI Agent](https://equinox.wiki/post/paper-reading/agent-memory/memory-os-of-ai-agent/) |
+| 2026 | [RGMem: Renormalization Group-inspired Memory Evolution for Language Agents](https://arxiv.org/pdf/2510.16392) | 让memory在 '稳定' 与 '改变' 之间保持平衡      | [论文精读 \| RGMem](https://equinox.wiki/post/paper-reading/agent-memory/rgmem/) |
+| 2026 | [MLP Memory: A Retriever-Pretrained Memory for Large Language Models](https://equinox.wiki/post/paper-reading/agent-memory/mlp-memory%E7%B2%BE%E8%AF%BB/) | 预训练MLP来模仿knn检索                        | [论文精读 \| MLP Memory](https://equinox.wiki/post/paper-reading/agent-memory/mlp-memory%E7%B2%BE%E8%AF%BB/) |
+| 2026 | [ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory](https://arxiv.org/pdf/2511.21678) | 让多模态 Agent 从“看错、想错”中长出可复用记忆 | [论文泛读 \| ViLoMem](https://equinox.wiki/post/paper-reading/agent-memory/vilomem%E7%B2%BE%E8%AF%BB/) |
+| 2026 | [Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/pdf/2602.06025) | 让 Agent 学会按问题决定'记忆处理要花多少钱'   | [论文精读 \| BudgetMem](https://equinox.wiki/post/paper-reading/agent-memory/budgetmem%E7%B2%BE%E8%AF%BB/) |
+| 2026 | [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/pdf/2601.02553) | 提高记忆信息密度来降低成本                    | [论文精读 \| SimpleMem](https://equinox.wiki/post/paper-reading/agent-memory/simplemem/) |
 
+ 
