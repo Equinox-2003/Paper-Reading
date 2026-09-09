@@ -2,10 +2,24 @@
 
 
 
+
+
 ### Archive
 
 | 日期       | 名称                                                         | blog                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|            |                                                              |                                                              |
+| 2026-09-08 | [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620) | [论文速览 \| TTT](https://equinox.wiki/post/paper-reading/tttcl/ttt/) |
+| 2026-09-06 | [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](https://arxiv.org/pdf/2406.06484) | [论文速览 \| DeltaNet](https://equinox.wiki/post/paper-reading/tttcl/deltanet/) |
+| 2026-09-05 | [Mem-T: Densifying Rewards for Long-Horizon Memory Agents](https://arxiv.org/pdf/2601.23014) | [论文速览 \| Mem T](https://equinox.wiki/post/paper-reading/agent-memory/mem-t/) |
+| 2026-09-04 | [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/pdf/2508.19828) | [论文速览 \| Memory R1](https://equinox.wiki/post/paper-reading/agent-memory/memory-r1/) |
+| 2026-09-03 | [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516) | [论文速览 \| Search R1](https://equinox.wiki/post/paper-reading/rlself-evolving/search-r1/) |
+| 2026-08-24 | [ViT3 : Unlocking Test-Time Training in Vision](https://arxiv.org/pdf/2512.01643) | [论文泛读 \| ViT$^3$](https://equinox.wiki/post/paper-reading/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89---transformer/vitt3/) |
+| 2026-08-13 | [Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates](https://arxiv.org/pdf/2601.18510) | [论文精读 \| JITRL](https://equinox.wiki/post/paper-reading/rlself-evolving/jitrl/) |
+| 2026-08-12 | [AttriMem: Attribution-Guided Process Feedback for Agent Memory Construction](https://arxiv.org/pdf/2607.21106) | [论文精读 \| AttriMem](https://equinox.wiki/post/paper-reading/agent-memory/attrimem/) |
+| 2026-08-11 | [Beyond Static Summarization: Proactive Memory Extraction for LLM Agents](https://arxiv.org/pdf/2601.04463) | [论文泛读 \| ProMem](https://equinox.wiki/post/paper-reading/agent-memory/promem/) |
+| 2026-08-05 | [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/pdf/2602.02007) | [论文精读 \| xMemory](https://equinox.wiki/post/paper-reading/agent-memory/xmemory/) |
+| 2026-07-30 | [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/pdf/2509.24704) | [论文精读 \| MemGen](https://equinox.wiki/post/paper-reading/agent-memory/memgen/) |
 | 2026-07-29 | [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/pdf/2601.02553) | [论文精读 \| SimpleMem](https://equinox.wiki/post/paper-reading/agent-memory/simplemem/) |
 | 2026-07-22 | [Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/pdf/2602.06025) | [论文精读 \| BudgetMem](https://equinox.wiki/post/paper-reading/agent-memory/budgetmem%E7%B2%BE%E8%AF%BB/) |
 | 2026-07-21 | [ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory](https://arxiv.org/pdf/2511.21678) | [论文泛读 \| ViLoMem](https://equinox.wiki/post/paper-reading/agent-memory/vilomem%E7%B2%BE%E8%AF%BB/) |
@@ -40,13 +54,18 @@
 
 
 
+
+
 ### 计算机视觉 - Transformer
 
-| 年份 | 名称                                                 | 简介                 | blog                                                         |
-| ---- | ---------------------------------------------------- | -------------------- | ------------------------------------------------------------ |
-| 2020 | [ViT](https://arxiv.org/pdf/2010.11929.pdf)          | Transformer 应用于CV | [ViT精读](https://equinox.wiki/post/paper-reading/vit%E7%B2%BE%E8%AF%BB/) |
-| 2021 | [MAE](https://arxiv.org/pdf/2111.06377.pdf)          | BERT 应用于CV        | [MAE精读](https://equinox.wiki/post/paper-reading/mae%E7%B2%BE%E8%AF%BB/) |
-| 2021 | [Swin Transformer](https://arxiv.org/pdf/2103.14030) | 层次化的ViT          | [Swin Transformer精读](https://equinox.wiki/post/paper-reading/swin-transformer%E7%B2%BE%E8%AF%BB/) |
+| 年份 | 名称                                                         | 简介                           | blog                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
+| 2020 | [ViT](https://arxiv.org/pdf/2010.11929.pdf)                  | Transformer 应用于CV           | [ViT精读](https://equinox.wiki/post/paper-reading/vit%E7%B2%BE%E8%AF%BB/) |
+| 2021 | [MAE](https://arxiv.org/pdf/2111.06377.pdf)                  | BERT 应用于CV                  | [MAE精读](https://equinox.wiki/post/paper-reading/mae%E7%B2%BE%E8%AF%BB/) |
+| 2021 | [Swin Transformer](https://arxiv.org/pdf/2103.14030)         | 层次化的ViT                    | [Swin Transformer精读](https://equinox.wiki/post/paper-reading/swin-transformer%E7%B2%BE%E8%AF%BB/) |
+| 2026 | [ViT3 : Unlocking Test-Time Training in Vision](https://arxiv.org/pdf/2512.01643) | 视觉模型线性复杂度做推理时训练 | [论文泛读 \| ViT$^3$](https://equinox.wiki/post/paper-reading/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89---transformer/vitt3/) |
+
+
 
 
 
@@ -55,6 +74,8 @@
 | 年份 | 名称                                           | 简介                                     | blog                                                         |
 | ---- | ---------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
 | 2020 | [MoCov1](https://arxiv.org/pdf/1911.05722.pdf) | 无监督训练在视觉任务上可以取得很好的效果 | [MoCo精读](https://equinox.wiki/post/paper-reading/moco%E7%B2%BE%E8%AF%BB/) |
+
+
 
 
 
@@ -68,6 +89,8 @@
 | 2021 | [VLMO](https://arxiv.org/pdf/2111.02358)     | 统一Dual encoder和Fusion encoder到一个架构中 | [VLMO泛读](https://equinox.wiki/post/paper-reading/vlmo%E6%B3%9B%E8%AF%BB/) |
 | 2022 | [BLIP](https://arxiv.org/pdf/2201.12086)     | ALBEF + VLMO，CapFilt生成更好的数据集        | [BLIP泛读](https://equinox.wiki/post/paper-reading/blip%E6%B3%9B%E8%AF%BB/) |
 | 2023 | [BLIP-2](https://arxiv.org/pdf/2301.12597)   | QFormer协同已训练好的视觉模型和语言模型      | [BLIP2泛读](https://equinox.wiki/post/paper-reading/blip2%E6%B3%9B%E8%AF%BB/) |
+
+
 
 
 
@@ -85,6 +108,8 @@
 
 
 
+
+
 ### CoT
 
 | 年份 | 名称                                                         | 简介                                        | blog                                                         |
@@ -96,19 +121,70 @@
 
 
 
-### Agent Memory
+
+
+### Agent Memory——Retrieve
 
 | 年份 | 名称                                                         | 简介                                          | blog                                                         |
 | ---- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
 | 2023 | [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442) | AI版本的《模拟人生》？                        | [论文精读 \| 斯坦福小镇](https://equinox.wiki/post/paper-reading/agent-memory/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%B0%8F%E9%95%87/) |
 | 2025 | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413) | 爆火的mem0原来只是prompt engineering？        | [Mem0框架解读](https://equinox.wiki/post/agent/mem0/)        |
-| 2026 | [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/pdf/2605.12357) | LoRA也能做 Agent Memory？                     | [论文精读 \| Delta Mem](https://equinox.wiki/post/paper-reading/agent-memory/delta-mem%E7%B2%BE%E8%AF%BB/) |
 | 2026 | [Belief Memory: Agent Memory Under Partial Observability](https://arxiv.org/pdf/2605.05583) | 如何维护可信记忆？                            | [论文精读 \| Belief Memory](https://equinox.wiki/post/paper-reading/agent-memory/belief-memory%E7%B2%BE%E8%AF%BB/) |
 | 2025 | [Memory OS of AI Agent](https://arxiv.org/pdf/2506.06326)    | 记忆也能做段页式存储管理                      | [论文精读 \| Memory OS of AI Agent](https://equinox.wiki/post/paper-reading/agent-memory/memory-os-of-ai-agent/) |
 | 2026 | [RGMem: Renormalization Group-inspired Memory Evolution for Language Agents](https://arxiv.org/pdf/2510.16392) | 让memory在 '稳定' 与 '改变' 之间保持平衡      | [论文精读 \| RGMem](https://equinox.wiki/post/paper-reading/agent-memory/rgmem/) |
-| 2026 | [MLP Memory: A Retriever-Pretrained Memory for Large Language Models](https://arxiv.org/pdf/2508.01832) | 预训练MLP来模仿knn检索                        | [论文精读 \| MLP Memory](https://equinox.wiki/post/paper-reading/agent-memory/mlp-memory%E7%B2%BE%E8%AF%BB/) |
 | 2026 | [ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory](https://arxiv.org/pdf/2511.21678) | 让多模态 Agent 从“看错、想错”中长出可复用记忆 | [论文泛读 \| ViLoMem](https://equinox.wiki/post/paper-reading/agent-memory/vilomem%E7%B2%BE%E8%AF%BB/) |
 | 2026 | [Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/pdf/2602.06025) | 让 Agent 学会按问题决定'记忆处理要花多少钱'   | [论文精读 \| BudgetMem](https://equinox.wiki/post/paper-reading/agent-memory/budgetmem%E7%B2%BE%E8%AF%BB/) |
 | 2026 | [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/pdf/2601.02553) | 提高记忆信息密度来降低成本                    | [论文精读 \| SimpleMem](https://equinox.wiki/post/paper-reading/agent-memory/simplemem/) |
+| 2026 | [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/pdf/2602.02007) | Agent Memory 别再硬套 RAG范式                 | [论文精读xMemory](https://equinox.wiki/post/paper-reading/agent-memory/xmemory/) |
 
  
+
+
+
+### Agent Memory - Parametric/Latent
+
+| 年份 | 名称                                                         | 简介                           | blog                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
+| 2026 | [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/pdf/2605.12357) | LoRA也能做 Agent Memory？      | [论文精读 \| Delta Mem](https://equinox.wiki/post/paper-reading/agent-memory/delta-mem%E7%B2%BE%E8%AF%BB/) |
+| 2026 | [MLP Memory: A Retriever-Pretrained Memory for Large Language Models](https://arxiv.org/pdf/2508.01832) | 预训练MLP来模仿knn检索         | [论文精读 \| MLP Memory](https://equinox.wiki/post/paper-reading/agent-memory/mlp-memory%E7%B2%BE%E8%AF%BB/) |
+| 2026 | [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/pdf/2509.24704) | 记忆和推理交叉推进             | [论文精读 \| MemGen](https://equinox.wiki/post/paper-reading/agent-memory/memgen/) |
+| 2026 | [Beyond Static Summarization: Proactive Memory Extraction for LLM Agents](https://arxiv.org/pdf/2601.04463) | 主动记忆提取来替代静态记忆摘要 | [论文泛读 \| ProMem](https://equinox.wiki/post/paper-reading/agent-memory/promem/) |
+
+ 
+
+
+
+### Agent Memory - RL
+
+| 年份 | 名称                                                         | 简介                                                         | blog                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2026 | [Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates](https://arxiv.org/pdf/2601.18510) | 基于memory做即时强化学习                                     | [论文精读 \| JITRL](https://equinox.wiki/post/paper-reading/rlself-evolving/jitrl/) |
+| 2026 | [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/pdf/2508.19828) | RL训练memory增删查改"                                        | [论文速览 \| Memory R1](https://equinox.wiki/post/paper-reading/agent-memory/memory-r1/) |
+| 2026 | [Mem-T: Densifying Rewards for Long-Horizon Memory Agents](https://arxiv.org/pdf/2601.23014) | 把长期记忆任务中很晚才到来的问答奖励，变成检索节点级、构建操作级的较密集训练信号" | [论文速览 \| Mem T](https://equinox.wiki/post/paper-reading/agent-memory/mem-t/) |
+| 2026 | [AttriMem: Attribution-Guided Process Feedback for Agent Memory Construction](https://arxiv.org/pdf/2607.21106) | 密集奖励强化学习训练LLM记忆构建                              | [论文精读 \| AttriMem](https://equinox.wiki/post/paper-reading/agent-memory/attrimem/) |
+
+ 
+
+
+
+### RL
+
+| 年份 | 名称                                                         | 简介                   | blog                                                         |
+| ---- | ------------------------------------------------------------ | ---------------------- | ------------------------------------------------------------ |
+| 2025 | [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516) | RL训练model的检索能力" | [论文速览 \| Search R1](https://equinox.wiki/post/paper-reading/rlself-evolving/search-r1/) |
+
+ 
+
+
+
+### TTT/CL
+
+| 年份 | 名称                                                         | 简介                                               | blog                                                         |
+| ---- | ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------ |
+| 2024 | [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](https://arxiv.org/pdf/2406.06484) | 在序列长度维度上并行化 Delta Rule 线性 Transformer | [论文速览 \| DeltaNet](https://equinox.wiki/post/paper-reading/tttcl/deltanet/) |
+| 2025 | [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620) | 让隐状态本身学会学习                               | [论文速览 \| TTT](https://equinox.wiki/post/paper-reading/tttcl/ttt/) |
+
+ 
+
+
+
