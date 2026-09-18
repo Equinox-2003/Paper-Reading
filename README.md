@@ -8,7 +8,8 @@
 
 | 日期       | 名称                                                         | blog                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|            |                                                              |                                                              |
+| 2026-09-17 | [LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference](https://arxiv.org/pdf/2608.02515) | [论文速览 \| LiveMem](https://equinox.wiki/post/paper-reading/agent-memory/parametriclatent/livemem/) |
+| 2026-09-16 | [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663) | [论文速览 \| Titans](https://equinox.wiki/post/paper-reading/tttcl/titans/) |
 | 2026-09-08 | [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620) | [论文速览 \| TTT](https://equinox.wiki/post/paper-reading/tttcl/ttt/) |
 | 2026-09-06 | [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](https://arxiv.org/pdf/2406.06484) | [论文速览 \| DeltaNet](https://equinox.wiki/post/paper-reading/tttcl/deltanet/) |
 | 2026-09-05 | [Mem-T: Densifying Rewards for Long-Horizon Memory Agents](https://arxiv.org/pdf/2601.23014) | [论文速览 \| Mem T](https://equinox.wiki/post/paper-reading/agent-memory/mem-t/) |
@@ -183,6 +184,8 @@
 | ---- | ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------ |
 | 2024 | [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](https://arxiv.org/pdf/2406.06484) | 在序列长度维度上并行化 Delta Rule 线性 Transformer | [论文速览 \| DeltaNet](https://equinox.wiki/post/paper-reading/tttcl/deltanet/) |
 | 2025 | [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620) | 让隐状态本身学会学习                               | [论文速览 \| TTT](https://equinox.wiki/post/paper-reading/tttcl/ttt/) |
+| 2025 | [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663) | 在测试时学习如何记忆                               | [论文速览 \| Titans](https://equinox.wiki/post/paper-reading/tttcl/titans/) |
+| 2026 | [LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference](https://arxiv.org/pdf/2608.02515) | 模型原生记忆能力                                   | [论文速览 \| LiveMem](https://equinox.wiki/post/paper-reading/agent-memory/parametriclatent/livemem/) |
 
  
 
